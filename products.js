@@ -171,6 +171,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "Great product!",
+                      "rating": 4,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
@@ -462,6 +469,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "so expensive",
+                      "rating": 2,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
@@ -737,6 +751,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "nice color",
+                      "rating": 4,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
@@ -1417,6 +1438,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "I like it",
+                      "rating": 5,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
@@ -1765,6 +1793,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "nice color",
+                      "rating": 4,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
@@ -2177,6 +2212,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "nice watch and its realy cheap",
+                      "rating": 4,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
@@ -2532,6 +2574,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "good watch",
+                      "rating": 4,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
@@ -2766,6 +2815,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "nice color",
+                      "rating": 4,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
@@ -3000,6 +3056,13 @@
                         }
                     ]
                 },
+                "comments": [
+                    {
+                      "user": "Ahmed Hany",
+                      "comment": "the wireless so weak",
+                      "rating": 4,
+                    },
+                  ],
                 "similarproduct": {
                     "data": [
                         {
