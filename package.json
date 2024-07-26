@@ -1,4 +1,8 @@
-{
+{ 
+  "scripts": {
+    "dev" : "node index.js",
+    "build" : "npm i"
+  },
   "dependencies": {
     "cloudinary": "^2.3.0",
     "cors": "^2.8.5",
